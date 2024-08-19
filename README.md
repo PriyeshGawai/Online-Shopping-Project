@@ -8,7 +8,7 @@ This online shopping platform allows users to view products, add them to a cart,
 4. Order processing and checkout
 5. Admin panel for product management
 6. Technologies Used
-7. Frontend: HTML, CSS, Bootstrap
+7. Frontend: HTML, CSS
    
 * Backend: JSP, Servlet, Java
 * Database: MySQL 
